@@ -1,4 +1,4 @@
-name: AnticheatBase
+name: Shawarma
 version: ${project.version}
 main: me.nik.anticheatbase.Anticheat
 api-version: 1.13
