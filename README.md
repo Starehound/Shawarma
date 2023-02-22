@@ -20,3 +20,6 @@ A simple AntiHack for the game Minecraft, Made with perfomance in mind.
 * Access to the player's client version
 * Access to the player's client brand
 * Zero usage of unnecessary method calls - api usage for the sake of it looking *pretty*
+
+
+[Click here to view pricing.](https://github.com/Starehound/Shawarma/blob/master/PRICING.md/ "Click here to view pricing.")
